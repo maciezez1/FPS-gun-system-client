@@ -1,4 +1,4 @@
--- Scripted by Maciezez in 2025
+-- Scripted by Breaking Coder in 2025
 
 -- VARIABLES --
 
